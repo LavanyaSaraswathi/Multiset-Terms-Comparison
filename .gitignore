@@ -1,0 +1,13 @@
+senv/
+.vscode/
+*__pycache__/
+*.ipynb_checkpoints/
+*.pyc
+.mypy_cache/
+*egg-info*
+*.tox
+*.coverage
+*/docs/build
+*Thumbs.db
+*dist/
+*build/
