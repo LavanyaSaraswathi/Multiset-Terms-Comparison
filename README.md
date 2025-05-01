@@ -1,3 +1,4 @@
+ HEAD
 # CryptoSolve
 
 This is a tool that generates and verifies cryptographic modes of operation using symbolic methods.
@@ -71,3 +72,6 @@ This module contains unification over terms modulo several popular theories. Cur
 ### Theories
 
 Various data structures and their properties defined as rewrite rules are defined in this module. This module can be further extended in order to define an automated theorem prover for objects such as natural numbers, booleans, and lists.
+
+# Multiset-Terms-Comparison
+ f848cae4832fa9937b066bcc52488aa94687961d
